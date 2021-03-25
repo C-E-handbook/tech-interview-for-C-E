@@ -27,4 +27,10 @@
 
 ## 🗂️ Index
 
+### ✅ Html & Css
+
 ### ✅ Javascript
+
+### ✅ React
+
+### ✅ Web
