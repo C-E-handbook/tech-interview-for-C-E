@@ -27,6 +27,8 @@
 
 ## 🗂️ Index
 
+### ✅ Algorithm
+
 ### ✅ Html & Css
 
 ### ✅ Javascript
