@@ -47,3 +47,4 @@
 - [DNS & IP](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/web/DNS%20%26%20IP.md)
 - [Web의 기본 동작 과정](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/web/%EC%9B%B9%20%EB%8F%99%EC%9E%91%20%EA%B3%BC%EC%A0%95.md)
 - [OSI 7계층](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/web/OSI%207%EA%B3%84%EC%B8%B5.md)
+- [CORS](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/web/cors.md)
