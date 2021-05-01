@@ -34,6 +34,7 @@
 ### ✅ HTML & CSS
 
 - [CSS 선택자의 우선 순위](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/Html%26Css/Css%20%EC%84%A0%ED%83%9D%EC%9E%90%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md)
+- [Reset Css](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/Html%26Css/reset%20css.md)
 
 ### ✅ Javascript
 - [IIFE 즉시실행함수](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/Javascript/IIFE(%EC%A6%89%EC%8B%9C%20%EC%8B%A4%ED%96%89%20%ED%95%A8%EC%88%98).md)
