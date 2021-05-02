@@ -31,6 +31,9 @@
 
 - [퀵 정렬(Quick Sort)](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/Algorithm/Quick%20sort.md)
 
+### ✅ CS
+- [스레드 & 프로세스](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/CS/%EC%8A%A4%EB%A0%88%EB%93%9C%20%26%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
+
 ### ✅ HTML & CSS
 
 - [CSS 선택자의 우선 순위](https://github.com/C-E-handbook/tech-interview-for-C-E/blob/master/Html%26Css/Css%20%EC%84%A0%ED%83%9D%EC%9E%90%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md)
